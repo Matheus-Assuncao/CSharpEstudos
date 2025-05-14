@@ -36,7 +36,7 @@ Este repositório serve como espaço de estudo e prática para reforçar fundame
 
 - Adicionar novos mini projetos
 - Evoluir os projetos atuais com mais funcionalidades (ex: salvar dados em arquivos ou em um Data Base)
-- 
+
 ## 📌 Autor
 
 Feito por Matheus Assunção.
